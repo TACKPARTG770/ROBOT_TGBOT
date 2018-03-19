@@ -1,5 +1,5 @@
  install() {
-wget "https://valtman.name/files/telegram-cli-1222"
+wget "https://TACKPARTG770 / ROBOT_TGBOT
 mv telegram-cli-1222 tg
 chmod +x tg
 sudo apt-get install libreadline-dev
